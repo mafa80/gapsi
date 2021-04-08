@@ -14,6 +14,7 @@ export default function Card() {
         <Link to="/proveedores">
           <a class="btn btn-primary">Continuar</a>
         </Link>
+        <p>Version 0.1.0</p>
       </div>
 
     </div>
